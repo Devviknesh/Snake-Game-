@@ -6,25 +6,6 @@ Overview
 
 This is a classic Snake Game implementation where the player controls a growing snake and tries to eat food while avoiding collisions with the walls and itself.
 
-Features
-
-Smooth movement
-
-Increasing difficulty as the snake grows
-
-Score tracking
-
-Simple and interactive gameplay
-
-Installation
-
-Clone this repository:
-
-git clone https://github.com/yourusername/snake-game.git
-
-Navigate to the project directory:
-
-cd snake-game
 
 Install dependencies (if any):
 
