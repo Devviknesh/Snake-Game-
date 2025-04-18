@@ -25,8 +25,6 @@ Try to achieve the highest score possible!
 
 Technologies Used
 
-Python (Pygame) / JavaScript (HTML, CSS, JS)
-
 Contribution
 
 Feel free to contribute to the project by submitting pull requests. Ensure that your changes are well-tested.
