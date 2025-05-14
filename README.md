@@ -7,10 +7,6 @@ This is a classic Snake Game implementation where the player controls a growing 
 
 Install dependencies (if any):
 
-pip install -r requirements.txt   # For Python version
-
-OR
-
 npm install   # For JavaScript version
 
 How to Play
