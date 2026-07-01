@@ -5,7 +5,7 @@ Snake Game
 This is a classic Snake Game implementation where the player controls a growing snake and tries to eat food while avoiding collisions with the walls and itself.
 
 
-Install dependencies (if any):
+Install dependencies (if any)::
 
 npm install   # For JavaScript version
 
