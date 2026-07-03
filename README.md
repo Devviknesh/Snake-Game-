@@ -11,7 +11,7 @@ npm install   # For JavaScript version
 
 How to Play,
 
-Use arrow keys (← ↑ ↓ →) or WASD to control the snake.
+Use ARROW KEYS (← ↑ ↓ →) or WASD to control the snake.
 
 Eat food to grow longer and increase your score.
 
