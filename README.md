@@ -7,7 +7,7 @@ This is a classic Snake Game implementation where the player controls a growing 
 
 Install dependencies (if any)::
 
-npm install   # For JavaScript version
+npm install   # For JavaScript 
 
 How to Play,
 
