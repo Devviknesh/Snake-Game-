@@ -9,7 +9,7 @@ Install dependencies (if any)::
 
 npm install   # For JavaScript 
 
-How to Play,
+How to Play
 
 Use ARROW KEYS (← ↑ ↓ →) or WASD to control the snake.
 
