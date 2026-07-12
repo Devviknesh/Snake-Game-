@@ -1,6 +1,6 @@
 # Snake-Game-
 A simple Snake game built using the Pygame library.
-Snake Game
+Snake Game.
 
 This is a classic Snake Game implementation where the player controls a growing snake and tries to eat food while avoiding collisions with the walls and itself.
 
